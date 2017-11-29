@@ -10,4 +10,4 @@ The app fulfills the following user stories:
 
 * If a Twitch user is currently streaming, I can see additional details about what they are streaming.
 
-View [here](clever-grape.surge.sh) (deployed with Surge).
+View [here](http://twitchtvapi.surge.sh/) (deployed with Surge).
